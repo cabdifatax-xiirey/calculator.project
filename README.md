@@ -1,0 +1,1 @@
+waan ku faraxsanahey inad so booqato dagalkaygan. Kani waa project aan ku dhisey calculator waxanan isticmaley html , css iyo javascript waxanan ugu talo galey ardayda ku cusub luuqada javascript code ka aan ku dhiseyna calculatorka wa mid kooban wad dajisan karta project waxan rajaynaya inad ka hesho!#
